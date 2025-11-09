@@ -2,7 +2,7 @@
 
 ## Draw on any device, link to your computer
 
-Hosts a webserver that allows you to draw on a phone or any device, which thenn replicates the mouse movements to your computer.
+Hosts a webserver that allows you to draw on a phone or any device, which then replicates the mouse movements to your computer.
 
 You need a pi pico with wifi with circutpython installed!
 
